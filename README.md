@@ -1,8 +1,11 @@
 # high-to-low-level-architect-pipeline
 🔧 Req2Spec - Business to Technical Converter  
 
-AI-powered tool that converts high-level business requirements into detailed technical specifications automatically.  
+AI-powered tool that converts high-level business requirements into detailed technical specifications automatically.    
 
+🚀 Live Demo  
+
+Try SpecCraft Now! (https://high-to-low-level-architect-pipeline.streamlit.app/)
 
 Show Image:
 ![image](https://github.com/user-attachments/assets/e95fb815-dd09-4ae4-979a-c53167974e52)

@@ -7,12 +7,14 @@ AI-powered tool that converts high-level business requirements into detailed tec
 Show Image:
 ![image](https://github.com/user-attachments/assets/e95fb815-dd09-4ae4-979a-c53167974e52)
 
-✨ What It Does
+✨ What It Does   
+
 Input: Write business requirements  
 
 Output: Technical modules, database schemas, pseudocode, and JSON specs  
 
-🚀 Quick Start
+🚀 Quick Start  
+
 Deploy to Streamlit Cloud (Free)
 1.Fork this repo
 2.Go to share.streamlit.io
@@ -20,15 +22,16 @@ Deploy to Streamlit Cloud (Free)
 4.Deploy app.py
 
 
-**Run Locally**
+🚀**Run Locally**  
+
 bash  
 
 pip install streamlit  
-
 streamlit run app.py  
 
 
-📝 Example Usage
+📝 Example Usage  
+
 Input:
 "Create a user registration system with email verification"
 
@@ -45,7 +48,8 @@ Output:
 
 
 
-🎯 Features
+🎯 Features  
+
 *Smart entity and module detection
 
 *SQL schema generation  

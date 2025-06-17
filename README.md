@@ -15,10 +15,14 @@ Output: Technical modules, database schemas, pseudocode, and JSON specs
 
 🚀 Quick Start  
 
-Deploy to Streamlit Cloud (Free)
-1.Fork this repo
-2.Go to share.streamlit.io
-3.Connect your GitHub repo
+Deploy to Streamlit Cloud (Free)  
+
+1.Fork this repo  
+
+2.Go to share.streamlit.io  
+
+3.Connect your GitHub repo  
+
 4.Deploy app.py
 
 
@@ -36,7 +40,8 @@ Input:
 "Create a user registration system with email verification"
 
   
-Output:
+Output:  
+
 -Modules: authentication, user_profile, email_service  
 
 -Schema: User table with fields  
@@ -64,6 +69,7 @@ Output:
 
 
 
+  
   
 Transform business ideas into technical blueprints in seconds 🚀
 

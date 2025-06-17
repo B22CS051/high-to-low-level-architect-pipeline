@@ -6,15 +6,17 @@ Show Image:
 ![image](https://github.com/user-attachments/assets/e95fb815-dd09-4ae4-979a-c53167974e52)
 
 ✨ What It Does
-Input: Write business requirements
-Output: Technical modules, database schemas, pseudocode, and JSON specs
+:Input: Write business requirements
+:Output: Technical modules, database schemas, pseudocode, and JSON specs
+
 🚀 Quick Start
-Deploy to Streamlit Cloud (Free)
-Fork this repo
-Go to share.streamlit.io
-Connect your GitHub repo
-Deploy app.py
-Run Locally
+>Deploy to Streamlit Cloud (Free)
+>Fork this repo
+>Go to share.streamlit.io
+>Connect your GitHub repo
+>Deploy app.py
+
+**Run Locally**
 bash
 pip install streamlit
 streamlit run app.py
